@@ -31,21 +31,15 @@ TascaS2.01
 │           ├─ queries.sql
 |           └─ EER.png 
 │
-├─ Level 2
-│   └─ Exercise 1 - YouTube
-│       └─ sql
-│           ├─ schema.sql
-│           ├─ inserts.sql
-│           ├─ queries.sql
-|           └─ EER.png 
-│
-└─ Level 3
-    └─ Exercise 1 - Spotify
-        └─ sql
-            ├─ schema.sql
-            ├─ inserts.sql
-            ├─ queries.sql
-            └─ EER.png 
+└─ Level 2
+   └─ Exercise 1 - YouTube
+       └─ sql
+           ├─ schema.sql
+           ├─ inserts.sql
+           ├─ queries.sql
+           └─ EER.png 
+
+
 ```
 
 Each exercise focuses on designing a correct relational model and verifying it through SQL queries.
